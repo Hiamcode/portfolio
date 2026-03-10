@@ -11,7 +11,7 @@ html {
 
 body {
   /* fondo desde archivo local en carpeta images.jpg */
-  background-image: url("../images.jpg/ sin título.png");
+  background-image: url("../images.jpg/Background-design.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -68,7 +68,7 @@ main {
     min-height: 100vh;
 }
 
-.Foto-perfil{
+.Profile-image{
     width: 210px;
     height: 210px;
     border-radius: 50%;
