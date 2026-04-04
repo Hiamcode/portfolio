@@ -249,3 +249,22 @@ button:focus {
     outline: 3px solid #047973;
     outline-offset: 2px;
 }
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #047973;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    border-radius: 30px;
+}
